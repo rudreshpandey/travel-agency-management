@@ -1,0 +1,51 @@
+.c1
+{
+	font-size:20px;
+	margin-top:25px;
+	margin-left:600px;
+}
+.c1 a{
+text-decoration:none;
+color:red;
+margin-left:50px;
+}
+.container
+{
+	position:relative;
+	text-align:center;
+	color:georgian;
+	background-image:url("../image/img2.jpg");
+	background-repeat:no-repeat;
+	min-height:800px;
+
+	
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  color:yellow;
+  
+}
+
+h1
+{
+	font-size:40px;
+	border:1px solid white;
+}
+
+.login{
+	float:right;
+	font-size:20px;
+	margin-right:10px;
+	color:blue;
+}
+input{
+	border:1px solid orange;
+  border-radius:5px ;
+  color:red;
+  padding:20px;
+  margin:50px;
+}
+	
+	
